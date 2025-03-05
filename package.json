@@ -1,7 +1,6 @@
 {
   "name": "options-pricing",
   "version": "0.1.0",
-  "type": "module",
   "engines": {
     "node": ">=20.0.0"
   },
